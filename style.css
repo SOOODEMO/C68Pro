@@ -1,0 +1,26 @@
+body{
+    color:gray;
+    font-family:cursive;
+    font-size: medium;
+text-align:justify;
+}
+
+#activites{
+    background-color: rgb(242, 175, 175);
+}
+
+#videos{
+    background-color: rgb(228, 200, 148);
+}
+
+#sm{
+    background-color:rgb(249, 249, 155);
+}
+
+#contact{
+    background-color:rgb(228, 255, 188);
+}
+
+.myNavbar{
+    color:aqua;
+}
